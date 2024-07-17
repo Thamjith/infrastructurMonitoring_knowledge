@@ -1,3 +1,72 @@
-Organizations have always been driven to ensure reliable, secure and efficient operations of their IT infrastructure. This was relatively simple before the adoption of cloud infrastructure because all of the components were static. Although some traditional infrastructure monitoring tools have limited integration with cloud services, they still require retrieving infrastructure metrics manually.
+Goals for onboarding?
 
-Infrastructure monitoring with IBM® Instana® Observability delivers AI-powered automated monitoring, alerting and remediation capabilities for unparalleled, real-time visibility into complex, distributed applications, services and infrastructure components. This includes servers, containers, databases and more, so teams have all the data and context they need to prevent downtime, optimize resource utilization and enhance the overall productivity and experience of users.
+Frontend Developer:
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+Backend Developer:
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+Business Manager
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+DevOps Manager
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+Site Reliability Engineer
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+Product Manager
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+IT Operations
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+IT Decesion Maker
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
+
+Support
+      1) Website / API performance management
+      2) Application performance management (agent based)
+      3) Application performance management (OTel based)
+      4) Infrastructure management
+      5) Application Debugging
+      6) Business Analysis
