@@ -15,7 +15,7 @@ Backend Developer:
       5) Application Debugging
       6) Business Analysis
 
-Business Manager
+Business Manager:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -23,7 +23,7 @@ Business Manager
       5) Application Debugging
       6) Business Analysis
 
-DevOps Manager
+DevOps Manager:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -31,7 +31,7 @@ DevOps Manager
       5) Application Debugging
       6) Business Analysis
 
-Site Reliability Engineer
+Site Reliability Engineer:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -39,7 +39,7 @@ Site Reliability Engineer
       5) Application Debugging
       6) Business Analysis
 
-Product Manager
+Product Manager:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -47,7 +47,7 @@ Product Manager
       5) Application Debugging
       6) Business Analysis
 
-IT Operations
+IT Operations:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -55,7 +55,7 @@ IT Operations
       5) Application Debugging
       6) Business Analysis
 
-IT Decesion Maker
+IT Decesion Maker:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
@@ -63,7 +63,7 @@ IT Decesion Maker
       5) Application Debugging
       6) Business Analysis
 
-Support
+Support:
       1) Website / API performance management
       2) Application performance management (agent based)
       3) Application performance management (OTel based)
